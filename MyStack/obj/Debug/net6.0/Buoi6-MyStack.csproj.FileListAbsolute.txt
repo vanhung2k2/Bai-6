@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\bin\Debug\net6.0\Buoi6-MyStack.exe
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\bin\Debug\net6.0\Buoi6-MyStack.deps.json
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\bin\Debug\net6.0\Buoi6-MyStack.runtimeconfig.json
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\bin\Debug\net6.0\Buoi6-MyStack.dll
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\bin\Debug\net6.0\Buoi6-MyStack.pdb
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net6.0\Buoi6-MyStack.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net6.0\Buoi6-MyStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net6.0\Buoi6-MyStack.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net6.0\Buoi6-MyStack.AssemblyInfo.cs
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net6.0\Buoi6-MyStack.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net6.0\Buoi6-MyStack.dll
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net6.0\refint\Buoi6-MyStack.dll
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net6.0\Buoi6-MyStack.pdb
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net6.0\Buoi6-MyStack.genruntimeconfig.cache
+C:\Users\PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net6.0\ref\Buoi6-MyStack.dll

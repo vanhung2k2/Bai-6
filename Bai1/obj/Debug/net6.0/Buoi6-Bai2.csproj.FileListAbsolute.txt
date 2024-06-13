@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\bin\Debug\net6.0\Buoi6-Bai2.exe
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\bin\Debug\net6.0\Buoi6-Bai2.deps.json
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\bin\Debug\net6.0\Buoi6-Bai2.runtimeconfig.json
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\bin\Debug\net6.0\Buoi6-Bai2.dll
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\bin\Debug\net6.0\Buoi6-Bai2.pdb
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net6.0\Buoi6-Bai2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net6.0\Buoi6-Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net6.0\Buoi6-Bai2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net6.0\Buoi6-Bai2.AssemblyInfo.cs
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net6.0\Buoi6-Bai2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net6.0\Buoi6-Bai2.dll
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net6.0\refint\Buoi6-Bai2.dll
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net6.0\Buoi6-Bai2.pdb
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net6.0\Buoi6-Bai2.genruntimeconfig.cache
+C:\Users\PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net6.0\ref\Buoi6-Bai2.dll
